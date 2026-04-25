@@ -1,1 +1,1 @@
-Página de aprensentção básica com uso de html e css.
+Página de aprensentção básica com uso de HTML e CSS.
